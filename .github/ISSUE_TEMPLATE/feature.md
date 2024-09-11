@@ -1,8 +1,8 @@
 ---
-name: Bug
-about: Something is broken
+name: Feature
+about: Something new to build
 title: '[Example Search API] (omit if not an API) '
-labels: 'type: bug'
+labels: 'type: feature'
 assignees: ''
 
 ---
@@ -11,7 +11,7 @@ One sentence description.
 
 Screenshot with red annotations.
 
-Details about the bug, sample code, more screenshots, and other relevant information.
+Details about the feature, sample code, more screenshots, and other relevant information.
 
 Public: Playground 1 | Playground 2 | Documentation
 
