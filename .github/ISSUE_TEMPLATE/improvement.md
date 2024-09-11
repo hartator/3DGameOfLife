@@ -15,4 +15,4 @@ Details about the improvement, sample code, more screenshots, and other relevant
 
 Public: Playground 1 | Playground 2 | Documentation
 
-Internal: Intercom | Inspect 1 | Inspect 2
+Internal: Inspect 1 | Inspect 2 | Intercom
